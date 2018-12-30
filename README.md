@@ -1,2 +1,2 @@
 # Udacity-Data-Scientist-Nanodegree
-Materials used during the course (term 1, Supervised Learning)
+Coding exercises and calculations used during the course (term 1, Supervised Learning)
